@@ -18,7 +18,7 @@ $ npm run test
 
 ```javascript
 oapply(
-  { a: 1 },
+  Promise.resolve({ a: 1 }),
   it => ++it.a,
   it => { it.a += 2 }
 ).then(it => console.log(it.a)) // output 4
