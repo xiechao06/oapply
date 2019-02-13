@@ -1,4 +1,8 @@
 # oapply
+
+DEPRECATED! please use [apply-with](https://www.npmjs.com/package/traits-decorator) instead!
+
+
 apply a (asynchronous) function to an object and return this object, similar to kotlin's apply
 
 ## quickstart
