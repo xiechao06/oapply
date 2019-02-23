@@ -1,6 +1,6 @@
 # oapply
 
-DEPRECATED! please use [apply-with](https://www.npmjs.com/package/traits-decorator) instead!
+DEPRECATED! please use [apply-with](https://www.npmjs.com/package/apply-with) instead!
 
 
 apply a (asynchronous) function to an object and return this object, similar to kotlin's apply
